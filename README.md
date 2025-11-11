@@ -4,9 +4,13 @@ I love building clean, efficient, and scalable web applications — turning idea
 About Me
 
 💻 Currently working with .NET 8, ASP.NET Core MVC, and Web API
-🌱 Expanding my skills in Entity Framework Core, LINQ, and JWT Authentication
+
+🌱 Expanding my skills in Entity Framework Core, LINQ, and JWT Authentication and Api development
+
 🧩 Experienced with C#, OOP, RESTful APIs, and database-driven apps
+
 🔄 Previously explored Mobile App Development with Flutter
+
 💡 I enjoy solving logical problems and writing clean, maintainable code.
 
 💬 Ask Me About
