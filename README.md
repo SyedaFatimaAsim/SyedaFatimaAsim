@@ -20,7 +20,9 @@ About Me
 
 I’m open to collaborating on:
 🔹 .NET / ASP.NET Core projects
+
 🔹 Backend development or API-based systems
+
 🔹 Flutter side projects (for fun 😄)
 
 📫 Reach Me
